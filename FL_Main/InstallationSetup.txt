@@ -1,0 +1,4 @@
+1. Install Miniconda: winget install -e --id Anaconda.Miniconda3
+2. conda create -n fl python=3.8
+3. conda activate fl
+4. pip install -r requirements.txt
